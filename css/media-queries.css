@@ -93,7 +93,7 @@
   .cta-grid {
     grid-template-columns: 3fr 2fr;
   }
-  .cta-from {
+  .cta-form {
     grid-template-columns: 1fr;
   }
 
@@ -175,7 +175,7 @@
     margin-bottom: 4.8rem;
   }
 
-  .pricing-plan {
+  .princing-plan {
     width: 100%;
   }
 
