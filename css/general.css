@@ -43,7 +43,7 @@ default: 10px
   box-shadow: 0 0 0 0.8rem rgba(230, 125, 34, 0.5);
 }
 html {
-  font-size: 10px;
+  font-size: 62.5%; /* se divide 10px / 16 (rem) y se multiplica por 100. util para el responsive */
 }
 body {
   font-family: "Rubik", sans-serif;

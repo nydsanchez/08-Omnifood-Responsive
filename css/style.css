@@ -13,8 +13,6 @@
   height: 2.2rem;
 }
 
-.main-nav {
-}
 .main-nav-list {
   list-style: none;
   display: flex;
@@ -337,8 +335,6 @@
   width: 6.4rem;
   border-radius: 50%;
   margin-bottom: 1.2rem;
-}
-.testimonial blockquote {
 }
 
 .testimonial-name {
