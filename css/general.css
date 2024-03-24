@@ -45,7 +45,7 @@ default: 10px
 html {
   /* 10px / 16 (rem) * 100. util para el responsive */
   font-size: 62.5%;
-
+  scroll-behavior: smooth;
   overflow-x: hidden;
 }
 body {
